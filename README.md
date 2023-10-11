@@ -2,7 +2,7 @@
 
 
 
-## **Allievating the Semantic Gap for Generalized fMRI-to-Image Reconstruction**
+## **Alleviating the Semantic Gap for Generalized fMRI-to-Image Reconstruction**
 
 
 ## Install required packages
